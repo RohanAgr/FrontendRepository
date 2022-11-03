@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Iconic Sports
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+description: Zesty Yeung group project displaying iconic players, teams, moments in sports
 github_username: RohanAgr
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "FrontendRepository"
