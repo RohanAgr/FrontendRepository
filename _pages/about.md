@@ -11,7 +11,7 @@ permalink: /about/
 - Saavan Gade (DevOps/Football): A 17 year old senior at Del Norte High School who loves playing basketball and watching sports. He also loves hanging out with his friends and playing video games. He has one younger sibling as well.
 
 > Scrum Process:
-- 
+- ![]({{site.baseurl}}/images/zestyyeungs.png "Agile Methology Diagram")
 
 > Plan:
-- 
+- ![]({{site.baseurl}}/images/FinalProjectOutline.png "Project Outline")
