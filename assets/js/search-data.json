@@ -6,6 +6,61 @@
 
   
       "page1": {
+          "title": "Sandy Alcantara",
+          "content": "Sandy Alcantara is the Miami Marlins’ ace pitcher. He started his career with the St. Louis Cardinals before signing with the Marlins in 2018. While his numbers over the years have been slightly above average, his 2022 season has been stellar. He pitched 6 complete games with an ERA of under 2.5. with a WHIP under 1, he is in the running for the NL Cy Young Award. . | https://www.youtube.com/watch?v=wlHVUfM_F0U . | . 2022 Regular Season Stats . Games Played Complete Games Strikeouts ERA . 32 | 6 | 207 | 2.28 | . .",
+          "url": "https://rohanagr.github.io/FrontendRepository/word/Alcantara.html",
+          "relUrl": "/word/Alcantara.html",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page2": {
+          "title": "Julio Rodriguez",
+          "content": "Julio Rodriguez is a 21 year old center fielder for the Seattle Mariners. The 2022 season was his rookie season, and he was a sensation. During Spring Traning, he earned his spot on the opening day roster, and from then onwards he did not look back. The rookie was productive for the Mariners, as he got on base a lot as well as motivating the team. Some say that he was the catalyst the Mariners needed to clinch a postseason berth for the first time since 2001. . | https://www.youtube.com/watch?v=B29wUCoXbro . | . 2022 Regular Season Stats . Average Home Runs RBI OPS . .284 | 28 | 75 | .853 | . .",
+          "url": "https://rohanagr.github.io/FrontendRepository/word/Jrod.html",
+          "relUrl": "/word/Jrod.html",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page3": {
+          "title": "Aaron Judge",
+          "content": "Aaron Judge is a Right Fielder for the New York Yankees. Known for his slugging, he is one of the only players to have multiple seasons where he hit more than 50 home runs. in the 2022 season, he broke the record for the most home runs in a single season in American League History, smashing 62 home runs. He carried the Yankees offense on his back when they were undergoing a slide in the month after the All-Star Break. With a historic season, Judge is a frontrunner for the American League MVP Award. . | https://youtu.be/jblL-wh4YmY?t=15 . | . 2022 Regular Season Stats . Average Home Runs RBI OPS . .311 | 62 | 131 | 1.111 | . .",
+          "url": "https://rohanagr.github.io/FrontendRepository/word/Judge.html",
+          "relUrl": "/word/Judge.html",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page4": {
+          "title": "Manny Machado",
+          "content": "Manny Machado is a 30-year old third baseman who plays for the San Diego Padres. He is known for his stellar defense and timely hitting. Ever since he took the field as a Baltimore Oriole at the age of 17, he has been a sensation. He homered in only his second career game, and played insane defense. Before signing with the Padres, he was known as “the villain of baseball” for the aggressive and bully-like manner in which he played. | In 2019, he signed a 10 year, $300 million deal with the Padres, and he was given the role as a mentor. Several people have noticed his growing maturity and the way he puts the Padres on his back. . | https://youtu.be/ZvViQ_hVk4o?t=308 | . 2022 Regular Season Stats . | Average | Home Runs | RBI | OPS | | ——- | ——— | — | — | | .298 | 32 | 102 | .898 | . .",
+          "url": "https://rohanagr.github.io/FrontendRepository/word/Machado.html",
+          "relUrl": "/word/Machado.html",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page5": {
+          "title": "Albert Pujols",
+          "content": "Albert Pujols was a DH / First Baseman for the St. Louis Cardinals, the Los Angeles Angels, and the Los Angeles Dodgers. He played his final season with the Cardinals in 2022, coming full circle. He also breached the 700 career home runs mark, totaling 703 in his legendary 21-season career. During the All-Star Break, no one expected him to breach the 700 home run mark, but he started hitting home runs regularly during the months of August and September. He was a major factor in the Cardinals’ postseason push. . | https://www.youtube.com/watch?v=0qkbvAs9KH8&amp;ab_channel=HighlightHeaven . | . 2022 Regular Season Stats . Average Home Runs RBI OPS . .270 | 24 | 68 | .895 | . .",
+          "url": "https://rohanagr.github.io/FrontendRepository/word/Pujols.html",
+          "relUrl": "/word/Pujols.html",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page6": {
           "title": "Zesty Yeungs",
           "content": "About Us . Derek Sol (Frontend/Basketball): Is a 17-year old senior at Del Norte High School. He likes to play basketball, videogames, watching movies, etc. He has a family of 4, with one older sibling. He also owns a Chihuahua named Choco. His favorite genre of music is RandB and Rap. His favorite food is tacos. His favorite basketball team is the Pheonix Suns and his favorite player is Devin Booker. | Dillon Lee (Scrum Master/Soccer): 16 y/o junior at Del Norte High School. Likes to play soccer for fun with his friends and has a younger sibling | Rohan Agarwal (Backend Developer/Baseball): 17 year old senior at Del Norte High School. Loves watching football and baseball, likes video games, and likes to stargaze. He has one younger sister in freshman year. He hopes to learn a lot in APCSP. | Saavan Gade (DevOps/Football): A 17 year old senior at Del Norte High School who loves playing basketball and watching sports. He also loves hanging out with his friends and playing video games. He has one younger sibling as well. | . Scrum Process: . | . Plan: . | .",
           "url": "https://rohanagr.github.io/FrontendRepository/about/",
@@ -33,7 +88,7 @@
   
 
   
-      ,"page8": {
+      ,"page13": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://rohanagr.github.io/FrontendRepository/robots.txt",

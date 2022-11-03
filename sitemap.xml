@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://rohanagr.github.io/FrontendRepository/word/Alcantara.html</loc>
+</url>
+<url>
+<loc>https://rohanagr.github.io/FrontendRepository/word/Jrod.html</loc>
+</url>
+<url>
+<loc>https://rohanagr.github.io/FrontendRepository/word/Judge.html</loc>
+</url>
+<url>
+<loc>https://rohanagr.github.io/FrontendRepository/word/Machado.html</loc>
+</url>
+<url>
+<loc>https://rohanagr.github.io/FrontendRepository/word/Pujols.html</loc>
+</url>
+<url>
 <loc>https://rohanagr.github.io/FrontendRepository/about/</loc>
 </url>
 <url>
@@ -8,10 +23,18 @@
 </url>
 <url>
 <loc>https://rohanagr.github.io/FrontendRepository/_pages/search.html</loc>
-<lastmod>2022-11-03T17:28:36-05:00</lastmod>
+<lastmod>2022-11-03T17:42:58-05:00</lastmod>
 </url>
 <url>
 <loc>https://rohanagr.github.io/FrontendRepository/_pages/tags.html</loc>
-<lastmod>2022-11-03T17:28:36-05:00</lastmod>
+<lastmod>2022-11-03T17:42:58-05:00</lastmod>
+</url>
+<url>
+<loc>https://rohanagr.github.io/FrontendRepository/word/baseball-menu.html</loc>
+<lastmod>2022-11-03T17:42:58-05:00</lastmod>
+</url>
+<url>
+<loc>https://rohanagr.github.io/FrontendRepository/word/basketball-menu.html</loc>
+<lastmod>2022-11-03T17:42:58-05:00</lastmod>
 </url>
 </urlset>
