@@ -381,7 +381,7 @@ canvas { filter: invert(100%); }
 
 li .post-meta-description { color: rgba(255, 255, 255, 0.69) !important; }
 
-html, body, input, textarea, select, button { color: rgba(255, 255, 255, 0.87) !important; background-color: #507699 !important; }
+html, body, input, textarea, select, button { color: rgba(255, 255, 255, 0.87) !important; background-color: #A3DCA9 !important; }
 
 a { color: #4bbaff !important; }
 
@@ -389,11 +389,11 @@ a:hover { color: rgba(255, 255, 255, 0.87) !important; }
 
 .site-title, .site-title:visited, .site-nav, .page-link { color: rgba(255, 255, 255, 0.87) !important; }
 
-.site-nav { background-color: #507699; border-color: #6989a7; }
+.site-nav { background-color: #A3DCA9; border-color: #b0e1b5; }
 
-* { scrollbar-color: #507699 #6989a7; }
+* { scrollbar-color: #A3DCA9 #b0e1b5; }
 
-pre, code { border-color: #6989a7; background-color: #597d9e; }
+pre, code { border-color: #b0e1b5; background-color: #a8dead; }
 
 .page-description { color: rgba(255, 255, 255, 0.69); }
 
@@ -401,19 +401,19 @@ pre, code { border-color: #6989a7; background-color: #597d9e; }
 
 .post-content p, .post-content li { color: rgba(255, 255, 255, 0.69); }
 
-.btn { background-color: #597d9e !important; color: rgba(255, 255, 255, 0.87) !important; border-color: #6989a7 !important; }
+.btn { background-color: #a8dead !important; color: rgba(255, 255, 255, 0.87) !important; border-color: #b0e1b5 !important; }
 
-.btn:hover { background-color: #507699 !important; }
+.btn:hover { background-color: #A3DCA9 !important; }
 
-table th { background-color: #597d9e; border-color: #6989a7; color: rgba(255, 255, 255, 0.87); }
+table th { background-color: #a8dead; border-color: #b0e1b5; color: rgba(255, 255, 255, 0.87); }
 
-table td { background-color: #507699; border-color: #6989a7; color: rgba(255, 255, 255, 0.69); }
+table td { background-color: #A3DCA9; border-color: #b0e1b5; color: rgba(255, 255, 255, 0.69); }
 
-.flash { color: #507699 !important; filter: brightness(80%); }
+.flash { color: #A3DCA9 !important; filter: brightness(80%); }
 
 canvas { filter: invert(100%); }
 
-.post-list > li > div { box-shadow: none !important; background-color: #597d9e; border: none !important; }
+.post-list > li > div { box-shadow: none !important; background-color: #a8dead; border: none !important; }
 
 li .post-meta-description { color: rgba(255, 255, 255, 0.69) !important; }
 
