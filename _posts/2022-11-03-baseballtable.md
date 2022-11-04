@@ -1,9 +1,8 @@
 ---
 title: 2022 MLB Regular Season Standings
 ---
-
-<!DOCTYPE html>
 <html>
+<link rel="stylesheet" href="dark-mode.scss">
    <body>   
 <table border="1" class="dataframe">
    <thead>
