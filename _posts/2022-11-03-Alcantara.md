@@ -18,3 +18,5 @@ title: Sandy Alcantara (Baseball)
 | 32 | 6 | 207 | 2.28 | 
 
 ![](vscode-remote://wsl%2Bubuntu/mnt/c/Users/rohan/vscode/FrontendRepository/images/alcantara.png)
+
+[Back to Baseball](https://rohanagr.github.io/FrontendRepository/Baseball/)
