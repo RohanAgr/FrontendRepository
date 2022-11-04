@@ -1,24 +1,10 @@
-
+---
+title: 2022 MLB Regular Season Standings
+---
 
 <!DOCTYPE html>
 <html>
-   <head>
-       <meta charset="utf-8">
-       <title>Select a Player</title>
-       <link rel="stylesheet" href="dark-mode.scss">
-   </head>
-   <body>
-     <table>
-       <tr>
-           <td>Menu!</td>
-           <td><a href="Machado.md">Manny Machado</a></td>
-           <td><a href="Jrod.md">Julio Rodriguez</td>
-           <td><a href="Judge.md">Aaron Judge</a></td>
-           <td><a href="Pujols.md">Albert Pujols</a></td>
-           <td><a href="Alcantara.md">Sandy Alcantara</a></td>
-       </tr>
-    </table>
-      
+   <body>   
 <table border="1" class="dataframe">
    <thead>
      <tr style="text-align: right;">
